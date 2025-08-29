@@ -1,7 +1,7 @@
-title: "Your Name — Teaching"
+title: "Timmy Paez Watson — Teaching"
 description: "Lectures, slides, exercises, and academic achievements"
-url: ""  # set to https://<your-username>.github.io/<repo-name> after publishing
-baseurl: "" # leave empty if deploying at the repo root
+url: "https://tp-watson.github.io"
+baseurl: "/Teaching-Site" # repo name here, because it's not at root
 
 # Minimal Mistakes settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -17,23 +17,23 @@ paginate_path: "/blog/page:num"
 
 # Author
 author:
-  name: "Your Name"
-  avatar: "/assets/img/avatar.jpg"   # replace if desired
-  bio: "Lecturer & researcher. I share my course materials here."
+  name: "Timmy Paez Watson"
+  avatar: "{{ site.baseurl }}/assets/img/avatar.jpg"   # replace with your photo
+  bio: "Teacher, PhD in Environmental Biotechnology. I teach metabolic networks and modelling."
   location: "Netherlands"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:your.email@example.com"
+      url: "mailto:timothypaezw@gmail.com"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/YOUR-USERNAME"
+      url: "https://github.com/tp-watson"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR-LINK/"
+      url: "https://www.linkedin.com/in/timothy-p%C3%A1ez-watson-269968159/"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/YOUR-ORCID"
+      url: "https://orcid.org/0000-0001-6103-0375"
 
 # Navigation
 collections: 
