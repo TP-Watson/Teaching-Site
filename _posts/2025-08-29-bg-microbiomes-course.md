@@ -1,5 +1,5 @@
 ---
-title: "Teaching: BG Microbiomes course"
+title: "Teaching: BiomeFun Microbiomes course in Belgrade"
 date: 2025-08-29
 categories: news
 tags: [teaching, course, ecology, metabolic-modeling, stoichiometry]
@@ -11,7 +11,7 @@ tags: [teaching, course, ecology, metabolic-modeling, stoichiometry]
 # image: "{{ '/assets/img/posts/bg-microbiomes.jpg' | relative_url }}"
 ---
 
-I will be teaching in the **BG Microbiomes** course.
+I will be teaching in the **BiomeFun Microbiomes** course in Belgrade!
 
 Course link:  
 <https://bgmicrobiomes.github.io/>
