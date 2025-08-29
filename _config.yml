@@ -18,7 +18,7 @@ paginate_path: "/blog/page:num"
 # Author
 author:
   name: "Timmy Paez Watson"
-  avatar: "{{ site.baseurl }}/assets/img/avatar.jpg"   
+  avatar: "https://tp-watson.github.io/Teaching-Site/assets/img/avatar.jpg?v=3"
   bio: "Teacher, PhD in Environmental Biotechnology. I teach metabolic networks and modelling."
   location: "Netherlands"
   links:
