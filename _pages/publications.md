@@ -1,15 +1,22 @@
 ---
-title: Lectures
-permalink: /lectures/
+title: Publications
+permalink: /publications/
+layout: single
 ---
 
-Below are selected recorded lectures. You can embed from YouTube or Vimeo.
-
-### Example embed
-{% raw %}{% include video id="dQw4w9WgXcQ" provider="youtube" %}{% endraw %}
-
-Create a new section per course or topic:
-
-## Course A (2024/25)
-- Topic 1 — 45 min (slides: PDF link)
-- Topic 2 — 30 min (slides: PDF link)
+{% assign pubs = site.publications | sort: 'year' | reverse %}
+{% assign grouped = pubs | group_by: 'year' %}
+{% for y in grouped %}
+## {{ y.name }}
+<ul>
+{% for p in y.items %}
+  <li>
+    {{ p.authors }} ({{ p.year }}). <em>{{ p.title }}</em>. {{ p.venue }}.
+    {% if p.doi %} [DOI](https://doi.org/{{ p.doi }}){% endif %}
+    {% if p.url %} [Link]({{ p.url }}){% endif %}
+    {% if p.pdf %} [PDF]({{ p.pdf | relative_url }}){% endif %}
+    {% if p.code %} [Code]({{ p.code }}){% endif %}
+  </li>
+{% endfor %}
+</ul>
+{% endfor %}
