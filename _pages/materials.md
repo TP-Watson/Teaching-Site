@@ -3,11 +3,13 @@ title: Slides & Exercises
 permalink: /materials/
 ---
 
-Organized by course. Place your PDFs in `/assets/pdfs` and link them.
+## Analysis of Metabolic Networks (readers)
 
-## Course A
-- **Week 1 Slides (PDF)**: [Download](/assets/pdfs/week1_slides.pdf)
-- **Exercise 1 (Notebook)**: [Download](/assets/pdfs/ex1_notebook.ipynb)
+- Reader M0: Definitions — [PDF]({{ '/assets/pdfs/amn/amn-reader-m0-definitions.pdf' | relative_url }})
+- Reader M1: Rates & balances — [PDF]({{ '/assets/pdfs/amn/amn-reader-m1-rates-balances.pdf' | relative_url }})
+- Reader M2: Stoichiometric modeling — [PDF]({{ '/assets/pdfs/amn/amn-reader-m2-stoichiometric-modeling.pdf' | relative_url }})
+- Reader M3: Pathway thermodynamics — [PDF]({{ '/assets/pdfs/amn/amn-reader-m3-thermodynamics.pdf' | relative_url }})
 
-## Course B
-- **Project brief (PDF)**: [Download](/assets/pdfs/project_brief.pdf)
+<!-- Example for another reader you might add later:
+- Reader M4: FBA & MFA — [PDF]({{ '/assets/pdfs/amn/amn-reader-m4-fba-mfa.pdf' | relative_url }})
+-->
