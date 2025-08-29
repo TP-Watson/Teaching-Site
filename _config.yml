@@ -41,6 +41,9 @@ collections:
     output: true
   pages:
     output: true
+  publications:
+    output: true
+    permalink: /publications/:title/
 
 defaults:
   - scope:
@@ -55,6 +58,12 @@ defaults:
   - scope:
       path: ""
       type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+  - scope:
+      path: ""
+      type: "publications"
     values:
       layout: "single"
       author_profile: true
