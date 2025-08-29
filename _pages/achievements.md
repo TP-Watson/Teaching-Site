@@ -3,11 +3,11 @@ title: Appointments & Prizes
 permalink: /achievements/
 ---
 
-Use a reverse-chronological timeline.
+### 2023
+- **Teacher of the Year � Life Sciences and Technology, Faculty of Applied Sciences**  
+  [Research Delft announcement](https://research.tudelft.nl/en/prizes/educator-of-the-year-life-science-and-technology)
 
-### 2025
-- Assistant Professor Appointment, University X
-- Prize Y — Organization Z
-
-### 2024
-- Teaching Award — Department of A
+### 2022
+- **Appointed Van Rijn Junior Teacher in Life Sciences and Technology**  
+  Main responsible teacher of *Analysis of Metabolic Networks* (MSc Life Sciences and Technology).  
+  [Course information at TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/lst/msc-life-science-and-technology)
