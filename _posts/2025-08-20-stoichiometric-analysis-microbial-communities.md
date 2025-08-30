@@ -17,7 +17,7 @@ We present a steady-state stoichiometric framework that links macrochemical equa
 
 <!--more-->
 
-**Preprint (PDF):**  
+*Preprint (PDF):**  
 [Download]({{ '/assets/pdfs/pubs/stoichiometric-analysis-microbial-communities-2025.pdf' | relative_url }})
 
 **Preprint:**  
