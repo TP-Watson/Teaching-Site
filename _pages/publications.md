@@ -13,9 +13,7 @@ layout: single
   <li>
     {{ p.authors }} ({{ p.year }}). <em>{{ p.title }}</em>. {{ p.venue }}.
     {% if p.doi %} [DOI](https://doi.org/{{ p.doi }}){% endif %}
-    {% if p.url %} [Link]({{ p.url }}){% endif %}
-    {% if p.pdf %} [PDF]({{ p.pdf | relative_url }}){% endif %}
-    {% if p.code %} [Code]({{ p.code }}){% endif %}
+    [Link]({{ p.url | relative_url }})
   </li>
 {% endfor %}
 </ul>
