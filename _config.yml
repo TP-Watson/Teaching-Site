@@ -61,13 +61,7 @@ defaults:
     values:
       layout: "single"
       author_profile: true
-  - scope:
-      path: ""
-      type: "publications"
-    values:
-      layout: "single"
-      author_profile: true
-
+  
 # Excerpts on index
 excerpt_separator: "<!--more-->"
 
