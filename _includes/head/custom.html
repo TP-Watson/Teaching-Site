@@ -1,11 +1,14 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var links = document.querySelectorAll('a[href]');
+  var links = document.querySelectorAll('a[href^="http"]');
   links.forEach(function (a) {
-    var href = a.getAttribute('href') || "";
-    if (href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
-    a.setAttribute('target', '_blank');
-    a.setAttribute('rel', 'noopener noreferrer');
+    try {
+      var u = new URL(a.getAttribute('href'), document.baseURI);
+      if (u.host !== location.host) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      }
+    } catch (e) {}
   });
 });
 </script>
