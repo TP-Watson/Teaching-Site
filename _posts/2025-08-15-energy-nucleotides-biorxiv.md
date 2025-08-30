@@ -12,7 +12,7 @@ classes: wide
 ---
 
 Our latest work on developing methods to assess the energy metabolites of complex microbial communities is out!<br>
-We show how the adenylate pool (ATP, ADP, AMP) of a whole community changes under dynamic conditions. These measurements can help constrain thermodynamic analyses and pinpoint the causes of phenotypic shifts—nicely linking back to our modeling framework.
+We show how the adenylate pool (ATP, ADP, AMP) of a whole community changes under dynamic conditions. These measurements can help constrain thermodynamic analyses and pinpoint the causes of phenotypic shifts; nicely linking back to our modeling framework.
 
 <!--more-->
 
