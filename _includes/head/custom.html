@@ -1,0 +1,11 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var links = document.querySelectorAll('a[href]');
+  links.forEach(function (a) {
+    var href = a.getAttribute('href') || "";
+    if (href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
+    a.setAttribute('target', '_blank');
+    a.setAttribute('rel', 'noopener noreferrer');
+  });
+});
+</script>
