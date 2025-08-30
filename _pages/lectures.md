@@ -5,11 +5,12 @@ permalink: /lectures/
 
 Below are selected recorded lectures. You can embed from YouTube or Vimeo.
 
-### Example embed
-{% raw %}{% include video id="dQw4w9WgXcQ" provider="youtube" %}{% endraw %}
+## Analysis of Metabolic Networks (2025)
 
-Create a new section per course or topic:
+### Lecture 1 — Introduction
+{% include video id="123456789" provider="vimeo" %}
+Slides: [PDF]({{ '/assets/pdfs/amn/lecture1-slides.pdf' | relative_url }})
 
-## Course A (2024/25)
-- Topic 1 â€” 45 min (slides: PDF link)
-- Topic 2 â€” 30 min (slides: PDF link)
+### Lecture 2 — Resource allocation
+{% include video id="987654321" provider="vimeo" %}
+Slides: [PDF]({{ '/assets/pdfs/amn/lecture2-slides.pdf' | relative_url }})
