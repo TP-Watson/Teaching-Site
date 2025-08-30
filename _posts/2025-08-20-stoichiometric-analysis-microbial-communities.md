@@ -1,6 +1,6 @@
 ---
 title: "New preprint: stoichiometric analysis of microbial communities"
-date: 2025-08-30
+date: 2025-08-25
 categories: news
 tags: [paper, publication, preprint, stoichiometry, microbial-communities]
 classes: wide
