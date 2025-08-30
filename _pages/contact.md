@@ -3,6 +3,6 @@ title: Contact
 permalink: /contact/
 ---
 
-- Email: your.email@example.com  
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/YOUR-LINK/)
+- Email: timothypaezw@gmail.com  
+- GitHub: [TP-Watson](https://github.com/TP-Watson)  
+- LinkedIn: [Timothy Paez Watson](https://www.linkedin.com/in/timothy-p%C3%A1ez-watson-269968159/)
