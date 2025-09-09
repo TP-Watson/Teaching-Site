@@ -5,6 +5,20 @@ toc: true
 toc_sticky: true
 ---
 
+## BiomeFUN 2025 - Belgrade
+
+### Basic Installation - Environments
+
+For the environment installation in Mac:
+{% include video id="1117108427" provider="vimeo" %}
+
+For the environment installation in Windows:
+{% include video id="1117112359" provider="vimeo" %}
+
+
+---
+
+
 ## Analysis of Metabolic Networks (AMN)
 
 ### Reader M3 - Pathway thermodynamics
