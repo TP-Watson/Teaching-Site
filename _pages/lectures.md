@@ -9,6 +9,8 @@ toc_sticky: true
 
 ### Basic Installation - Environments
 
+[Basic Installation - Environments](https://bgmicrobiomes.github.io/biomeFUN_materials/BiomeFUN_2025_installation_styled.html)
+
 For the environment installation in Mac:
 {% include video id="1117108427" provider="vimeo" %}
 
