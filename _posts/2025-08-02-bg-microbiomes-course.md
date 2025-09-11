@@ -1,6 +1,6 @@
 ---
 title: "Teaching: BiomeFun Microbiomes course in Belgrade"
-date: 2025-08-29
+date: 2025-08-27
 categories: news
 tags: [teaching, course, ecology, metabolic-modeling, stoichiometry]
 # optional banner/teaser image:

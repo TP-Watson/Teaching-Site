@@ -1,6 +1,6 @@
 ---
 title: "Teaching: Multi-Omics for Industrial Microbes (Biotech Delft)"
-date: 2025-08-29
+date: 2025-08-27
 categories: news
 tags: [teaching, course, metabolic-networks, resource-allocation]
 # optional teaser/big banner image:
