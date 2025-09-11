@@ -7,6 +7,16 @@ toc_sticky: true
 
 ## BiomeFUN 2025 - Belgrade
 
+### Basics of Python
+
+Download the starter Jupyter Notebook below to experiment with some simple Python code.  
+In the video, I explain how to install Python, open it, and begin coding.  
+
+- [Python_Basics Notebook]({{ '/assets/python/biomefun/Basics_Python_BiomeFun2025.ipynb' | relative_url }})
+
+{% include video id="-cLq4WI74_Y" provider="youtube" %}
+
+
 ### Basic Installation - Environments
 
 [Basic Installation - Environments](https://bgmicrobiomes.github.io/biomeFUN_materials/BiomeFUN_2025_installation_styled.html)
