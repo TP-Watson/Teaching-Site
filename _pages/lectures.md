@@ -12,7 +12,7 @@ toc_sticky: true
 Download the starter Jupyter Notebook below to experiment with some simple Python code.  
 In the video, I explain how to install Python, open it, and begin coding.  
 
-- [Python_Basics Notebook]({{ '/assets/python/biomefun/Basics_Python_BiomeFun2025.ipynb' | relative_url }})
+- <a href="{{ '/assets/python/biomefun/Basics_Python_BiomeFun2025.ipynb' | relative_url }}" download>Download Python_Basics Notebook (.ipynb)</a>
 
 {% include video id="-cLq4WI74_Y" provider="youtube" %}
 
