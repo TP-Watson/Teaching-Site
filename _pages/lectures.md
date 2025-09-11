@@ -19,7 +19,7 @@ In the video, I explain how to install Python, open it, and begin coding.
 
 ### Basic Installation - Environments
 
-Before working with the course materials, you’ll need to set up your Python environment.  
+Before working with the course materials, you will need to set up your Python environment.  
 Follow the step-by-step instructions in the guide below, and check the videos for a walkthrough of the installation process on Mac and Windows.  
 
 [Basic Installation - Environments](https://bgmicrobiomes.github.io/biomeFUN_materials/BiomeFUN_2025_installation_styled.html)
