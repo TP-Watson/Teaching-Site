@@ -11,7 +11,7 @@ classes: wide
 ---
 
 I'm honored to receive **Teacher of the Year (Life Sciences and Technology, Faculty of Applied Sciences)**. Huge thanks to the students and colleagues who made this possible!<br>
-<img src="{{ '/assets/img/posts/teacher-of-the-year-2023-teaser.jpg' | relative_url }}?v=2" alt="Teacher of the Year" loading="lazy" />
+<img src="{{ '/assets/img/posts/teacher-of-the-year-2023.jpg' | relative_url }}?v=2" alt="Teacher of the Year" loading="lazy" />
 
 <!--more-->
 
