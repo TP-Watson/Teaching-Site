@@ -10,6 +10,7 @@ In this course, I introduced two types of models that can be useful to examine m
 
 - Theoretical Models in Microbial Ecology:
   - [Lecture_Theoretical_modelling]({{ '/assets/python/biomefun/2025_BiomeFUN_Theo_Models_TPW.pptx' | relative_url }})
+  - [Exercise_1_LV_models]({{ '/assets/python/biomefun/1_LV_bacteria_phage_TPW.ipynb' | relative_url }})
 
 # Analysis of Metabolic Networks (readers)
 ## MSc Life Sciences and Technology - TU DELFT
