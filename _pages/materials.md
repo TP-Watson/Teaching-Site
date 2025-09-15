@@ -3,7 +3,19 @@ title: Slides & Exercises
 permalink: /materials/
 ---
 
-## Analysis of Metabolic Networks (readers)
+# BiomeFUN_2025 
+## Advanced course in Serbia
+
+In this course, I introduced two types of models that can be useful to examine microbial communities, with concepts and practical simple examples. Below you can find the material I used for this course. 
+
+- Theoretical Models in Microbial Ecology:
+  - PDF
+
+# Analysis of Metabolic Networks (readers)
+## MSc Life Sciences and Technology - TU DELFT
+
+Below you can find the teaching materials for my course in the MSc Life Sciences and Technology program at TU Delft.  
+The readers introduce key concepts in metabolic modeling, including mass balances, stoichiometric models, and pathway thermodynamics.
 
 - Reader M0: Definitions - [PDF]({{ '/assets/pdfs/amn/amn-reader-m0-definitions.pdf' | relative_url }})
 - Reader M1: Rates & balances - [PDF]({{ '/assets/pdfs/amn/amn-reader-m1-rates-balances.pdf' | relative_url }})
