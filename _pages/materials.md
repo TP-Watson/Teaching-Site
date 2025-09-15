@@ -9,7 +9,7 @@ permalink: /materials/
 In this course, I introduced two types of models that can be useful to examine microbial communities, with concepts and practical simple examples. Below you can find the material I used for this course. 
 
 - Theoretical Models in Microbial Ecology:
-  - PDF
+  - [Lecture_Theoretical_modelling]({{ '/assets/python/biomefun/2025_BiomeFUN_Theo_Models_TPW.pptx' | relative_url }})
 
 # Analysis of Metabolic Networks (readers)
 ## MSc Life Sciences and Technology - TU DELFT
