@@ -12,16 +12,16 @@ The material combines conceptual overviews with practical examples, giving parti
 - **Theoretical Models in Microbial Ecology**
   - [Lecture (PPTX)]({{ '/assets/python/biomefun/2025_BiomeFUN_Theo_Models_TPW.pptx' | relative_url }})
   - Exercises
-    - [Exercise 1 – LV models]({{ '/assets/python/biomefun/1_LV_bacteria_phage_TPW.ipynb' | relative_url }}){:download="Exercise_1_LV_models.ipynb"}
-    - [Exercise 2 – Consumer–resource models]({{ '/assets/python/biomefun/2_ConsumerResource_chemostat_TPW.ipynb' | relative_url }}){:download="Exercise_2_CR_models.ipynb"}
+    - [Exercise 1 - LV models]({{ '/assets/python/biomefun/1_LV_bacteria_phage_TPW.ipynb' | relative_url }}){:download="Exercise_1_LV_models.ipynb"}
+    - [Exercise 2 - Consumer-resource models]({{ '/assets/python/biomefun/2_ConsumerResource_chemostat_TPW.ipynb' | relative_url }}){:download="Exercise_2_CR_models.ipynb"}
 
 - **Metabolic Flux Analysis**
   - [Lecture (PPTX)]({{ '/assets/python/biomefun/2025_BiomeFUN_MFA_TPW.pptx' | relative_url }})
   - Exercises
-    - [Exercise 1 – Basic stoichiometric models]({{ '/assets/python/biomefun/1_Basic_model_TPW.ipynb' | relative_url }}){:download="Exercise_1_basic_Smodels.ipynb"}
-    - [Exercise 2 – COBRA intro]({{ '/assets/python/biomefun/2_COBRA_intro_TPW.ipynb' | relative_url }}){:download="Exercise_2_COBRA_models.ipynb"}
+    - [Exercise 1 - Basic stoichiometric models]({{ '/assets/python/biomefun/1_Basic_model_TPW.ipynb' | relative_url }}){:download="Exercise_1_basic_Smodels.ipynb"}
+    - [Exercise 2 - COBRA intro]({{ '/assets/python/biomefun/2_COBRA_intro_TPW.ipynb' | relative_url }}){:download="Exercise_2_COBRA_models.ipynb"}
       - Required file: [Basic model (Excel)]({{ '/assets/python/biomefun/2_Basic_model.xlsx' | relative_url }}){:download="2_Basic_model.xlsx"}
-    - [Exercise 3 – E. coli core model]({{ '/assets/python/biomefun/3_Ecoli_core_model_TPW.ipynb' | relative_url }}){:download="Exercise_3_COBRA_Ecoli.ipynb"}
+    - [Exercise 3 - E. coli core model]({{ '/assets/python/biomefun/3_Ecoli_core_model_TPW.ipynb' | relative_url }}){:download="Exercise_3_COBRA_Ecoli.ipynb"}
       - Required file: [E. coli core JSON]({{ '/assets/python/biomefun/Ecoli_core.json' | relative_url }}){:download="Ecoli_core.json"}
 
 
