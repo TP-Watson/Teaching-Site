@@ -1,0 +1,35 @@
+---
+title: "Teaching at FEMS-BiomeFun 2025 in Serbia"
+date: 2025-09-24
+categories: news
+tags: [teaching, courses, python, modelling]
+header:
+  overlay_color: "#000000"
+  overlay_filter: "0.15"
+  overlay_image: "{{ '/assets/img/posts/BiomeFUN_2025.jpg' | relative_url }}"
+classes: wide
+---
+
+Just came back from a week in Serbia for the **FEMS-BiomeFun 2025** course.  
+It was a mix of emotions and learnings: I taught a full day, starting from the **basics of Python**, moving into **ecological models**, and finishing with **metabolic modelling using COBRA**.  
+
+It was tough, but students really appreciated it. Beyond the science and the teaching, the **multicultural background** of all participants made the experience so enriching and inspiring. One of the highlights of my career — and a reminder of why I love to teach.  
+
+<img src="{{ '/assets/img/posts/BiomeFUN_2025.jpg' | relative_url }}?v=2" alt="BiomeFUN 2025" loading="lazy" />
+
+<!--more-->
+
+Want to follow the material from the course?  
+
+- [Videos introducing Python](https://tp-watson.github.io/Teaching-Site/lectures/)  
+- [Slides and exercises in Python](https://tp-watson.github.io/Teaching-Site/materials/)  
+- [Course website](https://bgmicrobiomes.github.io/)  
+- [Program and materials](https://bgmicrobiomes.github.io/biomeFUN_materials/)  
+
+---
+
+### More impressions from BiomeFUN 2025
+
+<img src="{{ '/assets/img/posts/BiomeFUN_2025_1.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 1" loading="lazy" />  
+<img src="{{ '/assets/img/posts/BiomeFUN_2025_2.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 2" loading="lazy" />  
+<img src="{{ '/assets/img/posts/BiomeFUN_2025_3.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 3" loading="lazy" />  
