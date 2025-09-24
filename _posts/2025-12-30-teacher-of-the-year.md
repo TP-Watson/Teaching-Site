@@ -1,6 +1,6 @@
 ---
 title: "Teacher of the Year - Life Sciences & Technology"
-date: 2025-12-30
+date: 2025-09-20
 categories: news
 tags: [award, teaching]
 header:
