@@ -14,15 +14,3 @@ Just came back from a week in Serbia for the FEMS-BiomeFun 2025 course.
 It was a mix of emotions and learnings: I taught a full day, starting from the basics of Python, moving into simple ecological models, and finishing with metabolic modelling using COBRA.
 
 It was tough, but students really appreciated it. Beyond the science and the teaching, the multicultural background of all participants made the experience enriching and inspiring. One of the highlights of my career and a reminder of why I love to teach.
-
-<img src="{{ '/assets/img/posts/BiomeFUN_2025.jpg' | relative_url }}" alt="BiomeFUN 2025" loading="lazy" />
-
-<!--more-->
-
-Want to follow the material from the course?
-
-- [Videos introducing Python](https://tp-watson.github.io/Teaching-Site/lectures/)
-- [Slides and exercises in Python](https://tp-watson.github.io/Teaching-Site/materials/)
-- [Course website](https://bgmicrobiomes.github.io/)
-- [Program and materials](https://bgmicrobiomes.github.io/biomeFUN_materials/)
-
