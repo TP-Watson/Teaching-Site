@@ -6,7 +6,7 @@ tags: [teaching, courses, python, modelling]
 header:
   overlay_color: "#000000"
   overlay_filter: "0.15"
-  overlay_image: "{{ '/assets/img/posts/BiomeFUN_2025.jpg' | relative_url }}"
+  overlay_image: "{{ '/assets/img/posts/BiomeFUN_2025.png' | relative_url }}"
 classes: wide
 ---
 
@@ -15,7 +15,7 @@ It was a mix of emotions and learnings: I taught a full day, starting from the b
 
 It was tough, but students really appreciated it. Beyond the science and the teaching, the multicultural background of all participants made the experience enriching and inspiring. One of the highlights of my career and a reminder of why I love to teach.
 
-<img src="{{ '/assets/img/posts/BiomeFUN_2025.jpg' | relative_url }}" alt="BiomeFUN 2025" loading="lazy" />
+<img src="{{ '/assets/img/posts/BiomeFUN_2025.png' | relative_url }}" alt="BiomeFUN 2025" loading="lazy" />
 
 <!--more-->
 
