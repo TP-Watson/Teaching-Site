@@ -26,12 +26,3 @@ Want to follow the material from the course?
 - [Course website](https://bgmicrobiomes.github.io/)
 - [Program and materials](https://bgmicrobiomes.github.io/biomeFUN_materials/)
 
----
-
-### More impressions from BiomeFUN 2025
-
-<p style="display:flex; gap:12px; flex-wrap:wrap;">
-  <img src="{{ '/assets/img/posts/BiomeFUN_2025_1.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 1" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
-  <img src="{{ '/assets/img/posts/BiomeFUN_2025_2.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 2" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
-  <img src="{{ '/assets/img/posts/BiomeFUN_2025_3.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 3" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
-</p>
