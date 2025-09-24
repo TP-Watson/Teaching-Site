@@ -16,12 +16,5 @@ We show how the adenylate pool (ATP, ADP, AMP) of a whole community changes unde
 
 <!--more-->
 
-**Preprint (PDF):**  
-[Download]({{ '/assets/pdfs/pubs/energy-nucleotides-granules-2025.pdf' | relative_url }})
-
-
 **Preprint:**  
-[BioRxiv link]({{ 'https://www.biorxiv.org/content/10.1101/XXXXXXv1' }})  <!-- replace with the actual BioRxiv URL or DOI -->
-
-**Related teaching materials:**  
-[Materials]({{ '/materials/' | relative_url }})
+[Energy Nucleotide measurements in microbial communities](https://doi.org/10.1101/2025.08.27.672571)
