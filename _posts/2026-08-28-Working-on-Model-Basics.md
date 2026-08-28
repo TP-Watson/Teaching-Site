@@ -6,7 +6,7 @@ tags: [teaching, courses, python, modelling]
 header:
   overlay_color: "#000000"
   overlay_filter: "0.15"
-  overlay_image: "{{ '/assets/img/posts/BiomeFUN_2025.png' | relative_url }}"
+  overlay_image: "{{ '/assets/img/posts/Holomicrobiome.jpg' | relative_url }}"
 classes: wide
 ---
 
@@ -19,5 +19,5 @@ That's why I have joined the Holomicrobiome Innovation Institute. We share very 
 
 I will be working on pushing the boundaries between modelling frameworks and to understand how can we make our science real! Stay tuned for more exciting news coming up.
 
-<img src="{{ '/assets/img/posts/BiomeFUN_2025.png' | relative_url }}" alt="BiomeFUN 2025" loading="lazy" />
+<img src="{{ '/assets/img/posts/Holomicrobiome.jpg' | relative_url }}" alt="Holomicrobiome" loading="lazy" />
 ___
