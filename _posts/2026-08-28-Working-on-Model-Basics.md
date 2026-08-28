@@ -1,6 +1,6 @@
 ---
-title: "Teaching at FEMS-BiomeFun 2025 in Serbia"
-date: 2025-09-18
+title: "New focus: standards of sharing microbiome models"
+date: 2026-02-18
 categories: news
 tags: [teaching, courses, python, modelling]
 header:
@@ -10,28 +10,12 @@ header:
 classes: wide
 ---
 
-Just came back from a week in Serbia for the FEMS-BiomeFun 2025 course.
-It was a mix of emotions and learnings: I taught a full day, starting from the basics of Python, moving into simple ecological models, and finishing with metabolic modelling using COBRA.
+After some years teaching Metabolic Modelling, I realised that a big limitation in our field -- for both students, teachers and researchers -- is the lack of standard methods to share different models, tools, and methods. 
 
-It was tough, but students really appreciated it. Beyond the science and the teaching, the multicultural background of all participants made the experience enriching and inspiring. One of the highlights of my career and a reminder of why I love to teach.
+Actually, by getting deeper into the topic, I realised the problem is **People don't even share the same definitions!** What is a model? This question will render you several distinct answers, even if you ask two microbiome scientists working with data. 
+
+That's why I have joined the Holomicrobiome Innovation Institute. We share very similar visions: to push the field to become more impactful. To move from descriptive science into a predictive and applied microbiome field! 
+
+I will be working on pushing the boundaries between modelling frameworks and to understand how can we make our science real! Stay tuned for more exciting news coming up.
 
 <img src="{{ '/assets/img/posts/BiomeFUN_2025.png' | relative_url }}" alt="BiomeFUN 2025" loading="lazy" />
-
-<!--more-->
-
-Want to follow the material from the course?
-
-- [Videos introducing Python](https://tp-watson.github.io/Teaching-Site/lectures/)
-- [Slides and exercises in Python](https://tp-watson.github.io/Teaching-Site/materials/)
-- [Course website](https://bgmicrobiomes.github.io/)
-- [Program and materials](https://bgmicrobiomes.github.io/biomeFUN_materials/)
-
----
-
-### More impressions from BiomeFUN 2025
-
-<p style="display:flex; gap:12px; flex-wrap:wrap;">
-  <img src="{{ '/assets/img/posts/BiomeFUN_2025_1.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 1" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
-  <img src="{{ '/assets/img/posts/BiomeFUN_2025_2.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 2" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
-  <img src="{{ '/assets/img/posts/BiomeFUN_2025_3.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 3" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
-</p>
