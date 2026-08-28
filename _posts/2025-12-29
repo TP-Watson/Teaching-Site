@@ -1,19 +1,37 @@
 ---
-title: "How to create impact in microbiome modelling?"
-date: 2025-09-20
+title: "Teaching at FEMS-BiomeFun 2025 in Serbia"
+date: 2025-09-18
 categories: news
-tags: [award, teaching]
+tags: [teaching, courses, python, modelling]
 header:
   overlay_color: "#000000"
   overlay_filter: "0.15"
-  overlay_image: "{{ '/assets/img/posts/teacher-of-the-year-2023.jpg' | relative_url }}"
+  overlay_image: "{{ '/assets/img/posts/BiomeFUN_2025.png' | relative_url }}"
 classes: wide
 ---
 
-I'm honored to receive **Teacher of the Year (Life Sciences and Technology, Faculty of Applied Sciences)**. Huge thanks to the students and colleagues who made this possible!<br>
-<img src="{{ '/assets/img/posts/teacher-of-the-year-2023.jpg' | relative_url }}?v=2" alt="Teacher of the Year" loading="lazy" />
+Just came back from a week in Serbia for the FEMS-BiomeFun 2025 course.
+It was a mix of emotions and learnings: I taught a full day, starting from the basics of Python, moving into simple ecological models, and finishing with metabolic modelling using COBRA.
+
+It was tough, but students really appreciated it. Beyond the science and the teaching, the multicultural background of all participants made the experience enriching and inspiring. One of the highlights of my career and a reminder of why I love to teach.
+
+<img src="{{ '/assets/img/posts/BiomeFUN_2025.png' | relative_url }}" alt="BiomeFUN 2025" loading="lazy" />
 
 <!--more-->
 
-You can read the official announcement here:  
-[Research Delft - Educator of the Year](https://research.tudelft.nl/en/prizes/educator-of-the-year-life-science-and-technology)
+Want to follow the material from the course?
+
+- [Videos introducing Python](https://tp-watson.github.io/Teaching-Site/lectures/)
+- [Slides and exercises in Python](https://tp-watson.github.io/Teaching-Site/materials/)
+- [Course website](https://bgmicrobiomes.github.io/)
+- [Program and materials](https://bgmicrobiomes.github.io/biomeFUN_materials/)
+
+---
+
+### More impressions from BiomeFUN 2025
+
+<p style="display:flex; gap:12px; flex-wrap:wrap;">
+  <img src="{{ '/assets/img/posts/BiomeFUN_2025_1.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 1" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
+  <img src="{{ '/assets/img/posts/BiomeFUN_2025_2.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 2" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
+  <img src="{{ '/assets/img/posts/BiomeFUN_2025_3.jpg' | relative_url }}" alt="BiomeFUN 2025 photo 3" loading="lazy" style="flex:1 1 300px; max-width:100%; height:auto;" />
+</p>
