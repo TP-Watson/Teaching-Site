@@ -7,6 +7,7 @@ header:
   overlay_color: "#000000"
   overlay_filter: "0.15"
   overlay_image: "{{ '/assets/img/posts/teacher-of-the-year-2023.jpg' | relative_url }}"
+  show_overlay_excerpt: false
 classes: wide
 ---
 
