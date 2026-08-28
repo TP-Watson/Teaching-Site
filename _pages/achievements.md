@@ -1,5 +1,5 @@
 ---
-title: Appointments & Prizes
+title: Teaching Appointments & Prizes
 permalink: /achievements/
 ---
 
